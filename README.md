@@ -4,6 +4,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.5-orange?style=flat-square&logo=scikit-learn)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35-red?style=flat-square&logo=streamlit)
 ![NLP](https://img.shields.io/badge/NLP-TF--IDF-green?style=flat-square)
+## 🚀 [Live Demo →](https://cinematch-wteg9vhafflamkyw2ubkka.streamlit.app/)
 
 > A content-based movie recommendation engine built with **TF-IDF vectorization** and **Cosine Similarity** — the same NLP technique used by Netflix, Spotify, and Google News.
 
